@@ -7,6 +7,5 @@ Web-аналитика в e-commerce, которой я занимаюсь по�
 В своей работе я использую SQL, Python, HTML, CSS, JavaScript, Google Analytics, Яндекс.Директ, Tableau, FineBI.
 
 ### Контакты
-
-[Telegram](https://t.me/shtainer83) 
+[Telegram](https://t.me/shtainer83)
 [e-mail](rubbish_heap@mail.ru)
