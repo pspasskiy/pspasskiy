@@ -1,4 +1,5 @@
 ## Hi there, I'm Pavel Spasskiy 👋
 
-Я пришел в аналитику данных из области информационных технологий. Свой опыт по владению инструментами для автоматизации бизнес процессов я хотел бы совместить со знаниями обработки, преобразования и анализа информации для принятия решений пользователями. Симбиоз этих знаний позволит повысить конкурентоспособность для ведения бизнеса в разных отраслях экономики.
+I came to data analytics from the field of information technology. I would like to combine my experience in using tools for automating business processes with knowledge of processing, transforming and analyzing information for user decision-making. The symbiosis of this knowledge will increase competitiveness for doing business in different sectors of the economy. 
+
 
